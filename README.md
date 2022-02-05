@@ -2,7 +2,7 @@
 
 ## What is it?
 
-GameDev.net is a website for game developers and people who are otherwise interested in news surrounding game development to view blogs, forums, news, and even careers conveniently in the same space. Additionally, the website also offers a place for people to show off their projects and access tutorials, streamlining the process of both learning how to develop their own projects, and also market and test them. 
+[GameDev.net](gamedev.net) is a website for game developers and people who are otherwise interested in news surrounding game development to view blogs, forums, news, and even careers conveniently in the same space. Additionally, the website also offers a place for people to show off their projects and access tutorials, streamlining the procesSs of both learning how to develop their own projects, and also market and test them. 
 
 ## Why is it interesting?
 
