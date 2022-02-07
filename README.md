@@ -11,5 +11,5 @@ As someone who is currently learning how to use development engines to create vi
 ## comment by Jeffery Wang
 It is a good website for game developer. I think the forum in this website could be extremely helpful for those who are interested in game designing or are learning these. Game designer definitely learn more while exchanging different ideas, technologies and frameworks. You can also ask question and answer others' question in GameDev.net.
 
-## comment by Keyanee Alexandre
+## comment by Keyanee Alexandre (ka1974)
 I think that's a great website! It makes it easier for people interested in news surrounding game development to view blogs, forums, news, etc to find a space just for them without having to go to reddit or other places. It will be interesting to see how many game ideas can come from people being able to learn from each other and discuss things on GameDev.net
