@@ -13,3 +13,6 @@ It is a good website for game developer. I think the forum in this website could
 
 ## Comment by Keyanee Alexandre (ka1974)
 I think that's a great website! It makes it easier for people interested in news surrounding game development to view blogs, forums, news, etc to find a space just for them without having to go to reddit or other places. It will be interesting to see how many game ideas can come from people being able to learn from each other and discuss things on GameDev.net
+
+## Comment by Alex Sheng
+This site is very fascinating!
